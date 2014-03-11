@@ -4,7 +4,7 @@ ruby '2.0.0'
 gem 'rails', '4.0.2'
 gem 'bootstrap-sass', '2.3.2.0'
 gem 'mysql2'
-gem 'bcrypt-ruby', '3.0.1'  # 密码加密导入 配合password_digest使用
+gem 'bcrypt-ruby', '3.1.2'  # 密码加密导入 配合password_digest使用
 gem 'faker','1.1.2'			# 帮助狠容易产生大量注册用户
 gem 'will_paginate', '3.0.4'	# 产生users分页
 gem 'bootstrap-will_paginate', '0.0.9' # 产生users分页
